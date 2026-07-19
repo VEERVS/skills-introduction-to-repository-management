@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @VEERVS
+/src/backend/database.py      @VEERVS
+/src/backend/routers/auth.py  @VEERVS
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @VEERVS
